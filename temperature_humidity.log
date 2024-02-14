@@ -1,0 +1,1735 @@
+2024-02-11 15:48:47.054 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:48:57.409 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:49:07.769 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:49:18.129 | INFO     | __main__:<module>:17 - Temp=23.6*C Humidity=28.2%
+2024-02-11 15:49:28.489 | INFO     | __main__:<module>:17 - Temp=23.6*C Humidity=28.2%
+2024-02-11 15:49:38.849 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:49:49.209 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:49:59.569 | INFO     | __main__:<module>:17 - Temp=23.6*C Humidity=28.2%
+2024-02-11 15:50:09.929 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:50:20.289 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:50:30.649 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:50:41.009 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:50:51.369 | ERROR    | __main__:<module>:24 - 센서 읽기 오류: Checksum did not validate. Try again.
+2024-02-11 15:51:01.729 | INFO     | __main__:<module>:17 - Temp=23.6*C Humidity=28.1%
+2024-02-11 15:51:12.089 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.1%
+2024-02-11 15:51:22.449 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.1%
+2024-02-11 15:51:32.809 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:51:43.169 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:51:53.529 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.1%
+2024-02-11 15:52:03.889 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:52:14.249 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:52:24.609 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:52:34.969 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:52:45.329 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:52:55.689 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.1%
+2024-02-11 15:53:06.049 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:53:16.409 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:53:26.769 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:53:37.129 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.1%
+2024-02-11 15:53:47.489 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:53:57.849 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:54:08.209 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:54:18.569 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:54:28.929 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:54:39.289 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:54:49.649 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:55:00.009 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:55:10.369 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:55:20.729 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:55:31.089 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:55:41.449 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.3%
+2024-02-11 15:55:51.809 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:56:02.169 | ERROR    | __main__:<module>:24 - 센서 읽기 오류: Checksum did not validate. Try again.
+2024-02-11 15:56:12.529 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.3%
+2024-02-11 15:56:22.889 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:56:33.249 | ERROR    | __main__:<module>:24 - 센서 읽기 오류: Checksum did not validate. Try again.
+2024-02-11 15:56:43.609 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.3%
+2024-02-11 15:56:53.969 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:57:04.329 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:57:14.689 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.2%
+2024-02-11 15:57:25.049 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.3%
+2024-02-11 15:57:35.409 | ERROR    | __main__:<module>:24 - 센서 읽기 오류: Checksum did not validate. Try again.
+2024-02-11 15:57:45.769 | ERROR    | __main__:<module>:24 - 센서 읽기 오류: Checksum did not validate. Try again.
+2024-02-11 15:57:56.129 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.4%
+2024-02-11 15:58:06.489 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.4%
+2024-02-11 15:58:16.849 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.4%
+2024-02-11 15:58:27.209 | ERROR    | __main__:<module>:24 - 센서 읽기 오류: Checksum did not validate. Try again.
+2024-02-11 15:58:37.569 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.4%
+2024-02-11 15:58:47.929 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.4%
+2024-02-11 15:58:58.289 | INFO     | __main__:<module>:17 - Temp=23.5*C Humidity=28.4%
+2024-02-12 10:04:30.629 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=35.8%
+2024-02-12 10:04:40.989 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=36.1%
+2024-02-12 10:04:51.349 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=36.0%
+2024-02-12 10:05:01.709 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=35.9%
+2024-02-12 10:05:12.069 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=35.8%
+2024-02-12 10:05:22.429 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=35.5%
+2024-02-12 10:05:32.789 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=35.7%
+2024-02-12 10:05:43.149 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-12 10:05:53.509 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:06:03.869 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=35.9%
+2024-02-12 10:06:14.229 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=36.8%
+2024-02-12 10:06:24.589 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=37.1%
+2024-02-12 10:06:34.949 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=37.3%
+2024-02-12 10:06:45.309 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=37.3%
+2024-02-12 10:06:55.669 | INFO     | __main__:<module>:17 - Temp=24.9*C Humidity=37.4%
+2024-02-12 10:07:06.029 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:07:16.389 | INFO     | __main__:<module>:17 - Temp=24.9*C Humidity=37.5%
+2024-02-12 10:07:26.749 | INFO     | __main__:<module>:17 - Temp=24.9*C Humidity=37.4%
+2024-02-12 10:07:37.109 | INFO     | __main__:<module>:17 - Temp=24.9*C Humidity=37.0%
+2024-02-12 10:07:47.469 | INFO     | __main__:<module>:17 - Temp=24.9*C Humidity=36.9%
+2024-02-12 10:07:57.829 | INFO     | __main__:<module>:17 - Temp=24.9*C Humidity=36.8%
+2024-02-12 10:08:08.189 | INFO     | __main__:<module>:17 - Temp=24.9*C Humidity=36.8%
+2024-02-12 10:08:18.549 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:08:28.909 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=36.7%
+2024-02-12 10:08:39.269 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=36.8%
+2024-02-12 10:08:49.629 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=36.7%
+2024-02-12 10:08:59.989 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=35.8%
+2024-02-12 10:09:10.349 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=36.3%
+2024-02-12 10:09:20.709 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=36.9%
+2024-02-12 10:09:31.069 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=37.1%
+2024-02-12 10:09:41.429 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=37.1%
+2024-02-12 10:09:51.789 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=37.2%
+2024-02-12 10:10:02.149 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:10:12.509 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=37.5%
+2024-02-12 10:10:22.869 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=37.5%
+2024-02-12 10:10:33.229 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=37.4%
+2024-02-12 10:10:43.589 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=37.3%
+2024-02-12 10:10:53.949 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.5%
+2024-02-12 10:11:04.309 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.3%
+2024-02-12 10:11:14.669 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.8%
+2024-02-12 10:11:25.029 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.9%
+2024-02-12 10:11:35.389 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.9%
+2024-02-12 10:11:45.749 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.7%
+2024-02-12 10:11:56.109 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.6%
+2024-02-12 10:12:06.469 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.6%
+2024-02-12 10:12:16.829 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.5%
+2024-02-12 10:12:27.189 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.3%
+2024-02-12 10:12:37.549 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=36.4%
+2024-02-12 10:12:47.909 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=36.3%
+2024-02-12 10:12:58.269 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:13:08.629 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=36.3%
+2024-02-12 10:13:18.989 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=36.2%
+2024-02-12 10:13:29.349 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=36.2%
+2024-02-12 10:13:39.710 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:13:50.072 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=36.4%
+2024-02-12 10:14:00.434 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=36.3%
+2024-02-12 10:14:10.797 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:14:21.159 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=36.3%
+2024-02-12 10:14:31.522 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=36.3%
+2024-02-12 10:14:41.884 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:14:52.247 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=36.3%
+2024-02-12 10:15:02.609 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:15:12.969 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-12 10:15:23.332 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=36.2%
+2024-02-12 10:15:33.694 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=36.3%
+2024-02-12 10:15:44.057 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=36.1%
+2024-02-12 10:15:54.419 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=36.1%
+2024-02-12 10:16:04.782 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=36.0%
+2024-02-12 10:16:15.144 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=36.0%
+2024-02-12 10:16:25.507 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.8%
+2024-02-12 10:16:35.869 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:16:46.232 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.8%
+2024-02-12 10:16:56.594 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.8%
+2024-02-12 10:17:06.957 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:17:17.320 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.7%
+2024-02-12 10:17:27.682 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:17:38.045 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.7%
+2024-02-12 10:17:48.408 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.7%
+2024-02-12 10:17:58.771 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.6%
+2024-02-12 10:18:09.133 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.5%
+2024-02-12 10:18:19.496 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.6%
+2024-02-12 10:18:29.858 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.6%
+2024-02-12 10:18:40.221 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:18:50.584 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:19:00.946 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.5%
+2024-02-12 10:19:11.305 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.4%
+2024-02-12 10:19:21.667 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:19:32.030 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.4%
+2024-02-12 10:19:42.393 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.4%
+2024-02-12 10:19:52.755 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.4%
+2024-02-12 10:20:03.118 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.3%
+2024-02-12 10:20:13.481 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.3%
+2024-02-12 10:20:23.843 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.2%
+2024-02-12 10:20:34.206 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.2%
+2024-02-12 10:20:44.568 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.1%
+2024-02-12 10:20:54.929 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:21:05.291 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:21:15.654 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.2%
+2024-02-12 10:21:26.017 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.2%
+2024-02-12 10:21:36.379 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.1%
+2024-02-12 10:21:46.742 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.1%
+2024-02-12 10:21:57.105 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.1%
+2024-02-12 10:22:07.467 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.0%
+2024-02-12 10:22:17.830 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.1%
+2024-02-12 10:22:28.193 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.0%
+2024-02-12 10:22:38.555 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.0%
+2024-02-12 10:22:48.918 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.9%
+2024-02-12 10:22:59.281 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=35.0%
+2024-02-12 10:23:09.644 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:23:20.006 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.8%
+2024-02-12 10:23:30.369 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.9%
+2024-02-12 10:23:40.732 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.8%
+2024-02-12 10:23:51.094 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.7%
+2024-02-12 10:24:01.457 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.8%
+2024-02-12 10:24:11.820 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.7%
+2024-02-12 10:24:22.182 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.7%
+2024-02-12 10:24:32.545 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:24:42.907 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.7%
+2024-02-12 10:24:53.270 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:25:03.625 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.5%
+2024-02-12 10:25:13.987 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.6%
+2024-02-12 10:25:24.350 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.6%
+2024-02-12 10:25:34.709 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.6%
+2024-02-12 10:25:45.072 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.5%
+2024-02-12 10:25:55.435 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:26:05.797 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:26:16.160 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.4%
+2024-02-12 10:26:26.522 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.4%
+2024-02-12 10:26:36.885 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.4%
+2024-02-12 10:26:47.248 | INFO     | __main__:<module>:17 - Temp=25.4*C Humidity=34.4%
+2024-02-12 10:26:57.610 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.4%
+2024-02-12 10:27:07.973 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.4%
+2024-02-12 10:27:18.336 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:27:28.698 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:27:39.061 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.4%
+2024-02-12 10:27:49.424 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.4%
+2024-02-12 10:27:59.786 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.3%
+2024-02-12 10:28:10.149 | INFO     | __main__:<module>:17 - Temp=25.4*C Humidity=34.3%
+2024-02-12 10:28:20.512 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.3%
+2024-02-12 10:28:30.874 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.2%
+2024-02-12 10:28:41.237 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.2%
+2024-02-12 10:28:51.600 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.1%
+2024-02-12 10:29:01.962 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.2%
+2024-02-12 10:29:12.325 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:29:22.687 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.2%
+2024-02-12 10:29:33.050 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:29:43.413 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.1%
+2024-02-12 10:29:53.775 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.1%
+2024-02-12 10:30:04.138 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:30:14.501 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:30:24.863 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:30:35.226 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:30:45.589 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.1%
+2024-02-12 10:30:55.951 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.1%
+2024-02-12 10:31:06.314 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:31:16.677 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:31:27.039 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:31:37.402 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:31:47.757 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:31:58.119 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:32:08.482 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:32:18.845 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:32:29.207 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:32:39.570 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:32:49.933 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:33:00.295 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:33:10.658 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=34.0%
+2024-02-12 10:33:21.021 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:33:31.383 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:33:41.746 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.9%
+2024-02-12 10:33:52.108 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.8%
+2024-02-12 10:34:02.471 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.9%
+2024-02-12 10:34:12.834 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.8%
+2024-02-12 10:34:23.196 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.9%
+2024-02-12 10:34:33.559 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.9%
+2024-02-12 10:34:43.922 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.8%
+2024-02-12 10:34:54.284 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.7%
+2024-02-12 10:35:04.647 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.8%
+2024-02-12 10:35:15.010 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.8%
+2024-02-12 10:35:25.372 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.8%
+2024-02-12 10:35:35.735 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.8%
+2024-02-12 10:35:46.098 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:35:56.461 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.8%
+2024-02-12 10:36:06.824 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.8%
+2024-02-12 10:36:17.186 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.7%
+2024-02-12 10:36:27.549 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.6%
+2024-02-12 10:36:37.911 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.7%
+2024-02-12 10:36:48.274 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.7%
+2024-02-12 10:36:58.637 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.7%
+2024-02-12 10:37:08.999 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.7%
+2024-02-12 10:37:19.362 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.7%
+2024-02-12 10:37:29.725 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.6%
+2024-02-12 10:37:40.081 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.6%
+2024-02-12 10:37:50.443 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.6%
+2024-02-12 10:38:00.806 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:38:11.169 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.5%
+2024-02-12 10:38:21.531 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.5%
+2024-02-12 10:38:31.894 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:38:42.257 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.6%
+2024-02-12 10:38:52.619 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:39:02.982 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.5%
+2024-02-12 10:39:13.344 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.6%
+2024-02-12 10:39:23.707 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.5%
+2024-02-12 10:39:34.070 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.5%
+2024-02-12 10:39:44.432 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.5%
+2024-02-12 10:39:54.795 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.5%
+2024-02-12 10:40:05.158 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.4%
+2024-02-12 10:40:15.520 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.3%
+2024-02-12 10:40:25.883 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.3%
+2024-02-12 10:40:36.246 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.3%
+2024-02-12 10:40:46.609 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.1%
+2024-02-12 10:40:56.971 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.2%
+2024-02-12 10:41:07.334 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.2%
+2024-02-12 10:41:17.697 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.2%
+2024-02-12 10:41:28.059 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=33.1%
+2024-02-12 10:41:38.422 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.1%
+2024-02-12 10:41:48.784 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.1%
+2024-02-12 10:41:59.147 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.0%
+2024-02-12 10:42:09.510 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.0%
+2024-02-12 10:42:19.872 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.0%
+2024-02-12 10:42:30.235 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.0%
+2024-02-12 10:42:40.598 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.0%
+2024-02-12 10:42:50.960 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.0%
+2024-02-12 10:43:01.323 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.0%
+2024-02-12 10:43:11.686 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.0%
+2024-02-12 10:43:22.048 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.9%
+2024-02-12 10:43:32.411 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.0%
+2024-02-12 10:43:42.773 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=33.0%
+2024-02-12 10:43:53.136 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.9%
+2024-02-12 10:44:03.499 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.9%
+2024-02-12 10:44:13.861 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.9%
+2024-02-12 10:44:24.224 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.8%
+2024-02-12 10:44:34.581 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.8%
+2024-02-12 10:44:44.943 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.9%
+2024-02-12 10:44:55.306 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.8%
+2024-02-12 10:45:05.669 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:45:16.031 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.7%
+2024-02-12 10:45:26.394 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.7%
+2024-02-12 10:45:36.757 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.7%
+2024-02-12 10:45:47.119 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.8%
+2024-02-12 10:45:57.482 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.8%
+2024-02-12 10:46:07.844 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.8%
+2024-02-12 10:46:18.207 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.6%
+2024-02-12 10:46:28.570 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.8%
+2024-02-12 10:46:38.932 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.7%
+2024-02-12 10:46:49.295 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.7%
+2024-02-12 10:46:59.658 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:47:10.020 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.6%
+2024-02-12 10:47:20.383 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=32.7%
+2024-02-12 10:47:30.746 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.6%
+2024-02-12 10:47:41.108 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.8%
+2024-02-12 10:47:51.471 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:48:01.834 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.6%
+2024-02-12 10:48:12.197 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:48:22.559 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:48:32.913 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:48:43.275 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:48:53.638 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:49:04.001 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:49:14.363 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:49:24.726 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:49:35.088 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:49:45.451 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:49:55.814 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.6%
+2024-02-12 10:50:06.177 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.6%
+2024-02-12 10:50:16.539 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.5%
+2024-02-12 10:50:26.902 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.5%
+2024-02-12 10:50:37.265 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.7%
+2024-02-12 10:50:47.627 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.7%
+2024-02-12 10:50:57.990 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.8%
+2024-02-12 10:51:08.352 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.7%
+2024-02-12 10:51:18.715 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.7%
+2024-02-12 10:51:29.078 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.6%
+2024-02-12 10:51:39.440 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:51:49.803 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.6%
+2024-02-12 10:52:00.166 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.7%
+2024-02-12 10:52:10.528 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.7%
+2024-02-12 10:52:20.891 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.7%
+2024-02-12 10:52:31.254 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:52:41.616 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.6%
+2024-02-12 10:52:51.979 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:53:02.342 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:53:12.704 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.6%
+2024-02-12 10:53:23.067 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.7%
+2024-02-12 10:53:33.425 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.6%
+2024-02-12 10:53:43.787 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.6%
+2024-02-12 10:53:54.141 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.7%
+2024-02-12 10:54:04.503 | INFO     | __main__:<module>:17 - Temp=24.9*C Humidity=32.5%
+2024-02-12 10:54:14.866 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:54:25.229 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:54:35.591 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:54:45.954 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:54:56.317 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:55:06.679 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:55:17.042 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.4%
+2024-02-12 10:55:27.404 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.4%
+2024-02-12 10:55:37.767 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.6%
+2024-02-12 10:55:48.130 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:55:58.493 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.3%
+2024-02-12 10:56:08.855 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:56:19.218 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.6%
+2024-02-12 10:56:29.581 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.6%
+2024-02-12 10:56:39.943 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:56:50.306 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:57:00.669 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.6%
+2024-02-12 10:57:11.031 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:57:21.394 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.4%
+2024-02-12 10:57:31.757 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:57:42.119 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:57:52.482 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:58:02.844 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.4%
+2024-02-12 10:58:13.207 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.4%
+2024-02-12 10:58:23.570 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 10:58:33.932 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:58:44.295 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.4%
+2024-02-12 10:58:54.658 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:59:05.020 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.4%
+2024-02-12 10:59:15.383 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.5%
+2024-02-12 10:59:25.746 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.4%
+2024-02-12 10:59:36.108 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.4%
+2024-02-12 10:59:46.471 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.3%
+2024-02-12 10:59:56.834 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.3%
+2024-02-12 11:00:07.196 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.3%
+2024-02-12 11:00:17.559 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.3%
+2024-02-12 11:00:27.922 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.3%
+2024-02-12 11:00:38.284 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.3%
+2024-02-12 11:00:48.647 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.3%
+2024-02-12 11:00:59.010 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.2%
+2024-02-12 11:01:09.372 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.2%
+2024-02-12 11:01:19.735 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.1%
+2024-02-12 11:01:30.098 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.2%
+2024-02-12 11:01:40.460 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:01:50.823 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.2%
+2024-02-12 11:02:01.186 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.2%
+2024-02-12 11:02:11.548 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.2%
+2024-02-12 11:02:21.911 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.2%
+2024-02-12 11:02:32.274 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.2%
+2024-02-12 11:02:42.636 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.1%
+2024-02-12 11:02:52.999 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.1%
+2024-02-12 11:03:03.362 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.1%
+2024-02-12 11:03:13.724 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.1%
+2024-02-12 11:03:24.087 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.0%
+2024-02-12 11:03:34.450 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:03:44.812 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.0%
+2024-02-12 11:03:55.175 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.0%
+2024-02-12 11:04:05.537 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.0%
+2024-02-12 11:04:15.900 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.0%
+2024-02-12 11:04:26.263 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.0%
+2024-02-12 11:04:36.621 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:04:46.983 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:04:57.346 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:05:07.709 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:05:18.071 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:05:28.434 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:05:38.797 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:05:49.159 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:05:59.522 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:06:09.885 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:06:20.248 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:06:30.610 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:06:40.973 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:06:51.336 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:07:01.698 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:07:12.061 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:07:22.424 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:07:32.786 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:07:43.149 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:07:53.511 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:08:03.869 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:08:14.231 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:08:24.594 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:08:34.957 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.9%
+2024-02-12 11:08:45.319 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:08:55.682 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:09:06.045 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:09:16.407 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:09:26.769 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:09:37.131 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:09:47.494 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:09:57.857 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:10:08.217 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:10:18.579 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:10:28.942 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:10:39.305 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:10:49.667 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:11:00.030 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:11:10.393 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:11:20.755 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:11:31.118 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:11:41.481 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:11:51.843 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:12:02.206 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:12:12.568 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:12:22.931 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:12:33.294 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:12:43.656 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=31.8%
+2024-02-12 11:12:54.019 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:13:04.377 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=31.7%
+2024-02-12 11:13:14.739 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:13:25.102 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:13:35.465 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:13:45.828 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:13:56.190 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=31.7%
+2024-02-12 11:14:06.553 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:14:16.916 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:14:27.278 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:14:37.641 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=31.7%
+2024-02-12 11:14:48.004 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:14:58.366 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:15:08.729 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:15:19.092 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:15:29.454 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:15:39.817 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:15:50.180 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.6%
+2024-02-12 11:16:00.542 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.6%
+2024-02-12 11:16:10.905 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.5%
+2024-02-12 11:16:21.268 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.2%
+2024-02-12 11:16:31.630 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.0%
+2024-02-12 11:16:41.993 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.2%
+2024-02-12 11:16:52.356 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.4%
+2024-02-12 11:17:02.717 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.4%
+2024-02-12 11:17:13.079 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.7%
+2024-02-12 11:17:23.442 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=32.0%
+2024-02-12 11:17:33.805 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:17:44.168 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.6%
+2024-02-12 11:17:54.530 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=31.8%
+2024-02-12 11:18:04.893 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.8%
+2024-02-12 11:18:15.256 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=32.0%
+2024-02-12 11:18:25.618 | INFO     | __main__:<module>:17 - Temp=25.0*C Humidity=31.7%
+2024-02-12 11:18:35.981 | INFO     | __main__:<module>:17 - Temp=24.9*C Humidity=31.7%
+2024-02-12 11:18:46.344 | INFO     | __main__:<module>:17 - Temp=24.9*C Humidity=31.7%
+2024-02-12 11:18:56.706 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:19:07.069 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=31.8%
+2024-02-12 11:19:17.432 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=31.6%
+2024-02-12 11:19:27.795 | INFO     | __main__:<module>:17 - Temp=24.8*C Humidity=31.5%
+2024-02-12 11:19:38.157 | INFO     | __main__:<module>:17 - Temp=24.7*C Humidity=31.7%
+2024-02-12 11:19:48.520 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:19:58.883 | INFO     | __main__:<module>:17 - Temp=24.7*C Humidity=31.7%
+2024-02-12 11:20:09.245 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=31.7%
+2024-02-12 11:20:19.608 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=31.8%
+2024-02-12 11:20:29.971 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=31.8%
+2024-02-12 11:20:40.333 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=31.8%
+2024-02-12 11:20:50.696 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:21:01.059 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:21:11.421 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=31.9%
+2024-02-12 11:21:21.784 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=31.9%
+2024-02-12 11:21:32.147 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.0%
+2024-02-12 11:21:42.510 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.0%
+2024-02-12 11:21:52.873 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.0%
+2024-02-12 11:22:03.235 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.0%
+2024-02-12 11:22:13.598 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.1%
+2024-02-12 11:22:23.961 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.1%
+2024-02-12 11:22:34.323 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.2%
+2024-02-12 11:22:44.686 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.2%
+2024-02-12 11:22:55.049 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.1%
+2024-02-12 11:23:05.411 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.2%
+2024-02-12 11:23:15.774 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.3%
+2024-02-12 11:23:26.137 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.5%
+2024-02-12 11:23:36.500 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:23:46.862 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.2%
+2024-02-12 11:23:57.225 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.2%
+2024-02-12 11:24:07.588 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.2%
+2024-02-12 11:24:17.949 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:24:28.309 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:24:38.669 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:24:49.029 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.3%
+2024-02-12 11:24:59.389 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.2%
+2024-02-12 11:25:09.749 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:25:20.109 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:25:30.469 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.4%
+2024-02-12 11:25:40.830 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=33.3%
+2024-02-12 11:25:51.189 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.5%
+2024-02-12 11:26:01.549 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.3%
+2024-02-12 11:26:11.909 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.4%
+2024-02-12 11:26:22.270 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-12 11:26:32.629 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.4%
+2024-02-12 11:26:42.989 | INFO     | __main__:<module>:17 - Temp=24.4*C Humidity=32.3%
+2024-02-12 11:26:53.349 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.2%
+2024-02-12 11:27:03.709 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.8%
+2024-02-12 11:27:14.069 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=34.0%
+2024-02-12 11:27:24.429 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=33.0%
+2024-02-12 11:27:34.789 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=33.2%
+2024-02-12 11:27:45.149 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=33.3%
+2024-02-12 11:27:55.509 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=34.5%
+2024-02-12 11:28:05.869 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:28:16.229 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.5%
+2024-02-12 11:28:26.589 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.5%
+2024-02-12 11:28:36.949 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.5%
+2024-02-12 11:28:47.309 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.5%
+2024-02-12 11:28:57.669 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.4%
+2024-02-12 11:29:08.029 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.4%
+2024-02-12 11:29:18.389 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:29:28.749 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:29:39.109 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:29:49.469 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.4%
+2024-02-12 11:29:59.829 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.3%
+2024-02-12 11:30:10.189 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.7%
+2024-02-12 11:30:20.549 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.6%
+2024-02-12 11:30:30.909 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.2%
+2024-02-12 11:30:41.269 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:30:51.629 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=33.0%
+2024-02-12 11:31:01.989 | INFO     | __main__:<module>:17 - Temp=24.5*C Humidity=32.1%
+2024-02-12 11:31:12.349 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=32.1%
+2024-02-12 11:31:22.710 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:31:33.073 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:31:43.436 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=32.6%
+2024-02-12 11:31:53.798 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=32.3%
+2024-02-12 11:32:04.161 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 11:32:14.524 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=32.2%
+2024-02-12 11:32:24.887 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=32.2%
+2024-02-12 11:32:35.249 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=32.3%
+2024-02-12 11:32:45.613 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=32.1%
+2024-02-12 11:32:55.976 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=32.1%
+2024-02-12 11:33:06.338 | INFO     | __main__:<module>:17 - Temp=24.6*C Humidity=32.1%
+2024-02-12 12:12:39.523 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:12:49.887 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-12 12:13:00.249 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=26.9%
+2024-02-12 12:13:10.612 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=26.9%
+2024-02-12 12:13:20.974 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=26.9%
+2024-02-12 12:24:40.847 | WARNING  | __main__:<module>:24 - failed to read sensor: DHT sensor not found, check wiring
+2024-02-12 12:24:51.210 | WARNING  | __main__:<module>:24 - failed to read sensor: DHT sensor not found, check wiring
+2024-02-12 12:25:13.229 | WARNING  | __main__:<module>:24 - failed to read sensor: DHT sensor not found, check wiring
+2024-02-12 12:28:23.227 | INFO     | __main__:<module>:17 - Temp=74.5*C Humidity=2.6%
+2024-02-12 12:28:33.590 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:28:43.953 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:28:54.315 | INFO     | __main__:<module>:17 - Temp=61.5*C Humidity=4.7%
+2024-02-12 12:29:09.867 | INFO     | __main__:<module>:17 - Temp=57.2*C Humidity=5.8%
+2024-02-12 12:29:20.230 | INFO     | __main__:<module>:17 - Temp=54.7*C Humidity=6.5%
+2024-02-12 12:30:11.808 | INFO     | __main__:<module>:17 - Temp=45.6*C Humidity=9.9%
+2024-02-12 12:30:22.171 | INFO     | __main__:<module>:17 - Temp=44.2*C Humidity=10.4%
+2024-02-12 12:32:46.230 | INFO     | __main__:<module>:17 - Temp=33.3*C Humidity=17.7%
+2024-02-12 12:32:56.593 | INFO     | __main__:<module>:17 - Temp=32.9*C Humidity=18.1%
+2024-02-12 12:33:56.283 | INFO     | __main__:<module>:17 - Temp=30.9*C Humidity=20.3%
+2024-02-12 12:34:06.646 | INFO     | __main__:<module>:17 - Temp=30.6*C Humidity=20.4%
+2024-02-12 12:34:17.008 | INFO     | __main__:<module>:17 - Temp=30.3*C Humidity=20.8%
+2024-02-12 12:34:27.371 | INFO     | __main__:<module>:17 - Temp=30.0*C Humidity=21.3%
+2024-02-12 12:34:37.733 | INFO     | __main__:<module>:17 - Temp=29.7*C Humidity=21.6%
+2024-02-12 12:34:48.090 | INFO     | __main__:<module>:17 - Temp=29.6*C Humidity=21.8%
+2024-02-12 12:34:58.452 | INFO     | __main__:<module>:17 - Temp=29.4*C Humidity=22.4%
+2024-02-12 12:35:08.815 | INFO     | __main__:<module>:17 - Temp=29.2*C Humidity=23.2%
+2024-02-12 12:35:19.177 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:35:29.539 | INFO     | __main__:<module>:17 - Temp=28.9*C Humidity=26.6%
+2024-02-12 12:35:39.902 | INFO     | __main__:<module>:17 - Temp=28.8*C Humidity=23.7%
+2024-02-12 12:35:50.264 | INFO     | __main__:<module>:17 - Temp=28.7*C Humidity=23.3%
+2024-02-12 12:36:00.627 | INFO     | __main__:<module>:17 - Temp=28.6*C Humidity=23.7%
+2024-02-12 12:36:10.989 | INFO     | __main__:<module>:17 - Temp=28.5*C Humidity=23.5%
+2024-02-12 12:36:21.352 | INFO     | __main__:<module>:17 - Temp=28.4*C Humidity=23.5%
+2024-02-12 12:36:31.714 | INFO     | __main__:<module>:17 - Temp=28.3*C Humidity=23.6%
+2024-02-12 12:36:42.077 | INFO     | __main__:<module>:17 - Temp=28.2*C Humidity=24.9%
+2024-02-12 12:36:52.439 | INFO     | __main__:<module>:17 - Temp=28.1*C Humidity=24.5%
+2024-02-12 12:37:02.802 | INFO     | __main__:<module>:17 - Temp=28.1*C Humidity=24.2%
+2024-02-12 12:37:13.164 | INFO     | __main__:<module>:17 - Temp=28.0*C Humidity=24.4%
+2024-02-12 12:37:23.527 | INFO     | __main__:<module>:17 - Temp=27.9*C Humidity=24.2%
+2024-02-12 12:37:33.889 | INFO     | __main__:<module>:17 - Temp=27.9*C Humidity=24.3%
+2024-02-12 12:37:44.250 | INFO     | __main__:<module>:17 - Temp=27.8*C Humidity=24.3%
+2024-02-12 12:37:54.612 | INFO     | __main__:<module>:17 - Temp=27.7*C Humidity=24.4%
+2024-02-12 12:38:04.975 | INFO     | __main__:<module>:17 - Temp=27.6*C Humidity=24.5%
+2024-02-12 12:38:15.337 | INFO     | __main__:<module>:17 - Temp=27.5*C Humidity=24.6%
+2024-02-12 12:38:25.700 | INFO     | __main__:<module>:17 - Temp=27.4*C Humidity=25.0%
+2024-02-12 12:38:36.062 | INFO     | __main__:<module>:17 - Temp=27.3*C Humidity=25.1%
+2024-02-12 12:38:46.425 | INFO     | __main__:<module>:17 - Temp=27.2*C Humidity=25.1%
+2024-02-12 12:38:56.787 | INFO     | __main__:<module>:17 - Temp=27.2*C Humidity=25.2%
+2024-02-12 12:39:07.149 | INFO     | __main__:<module>:17 - Temp=27.1*C Humidity=25.4%
+2024-02-12 12:39:17.512 | INFO     | __main__:<module>:17 - Temp=27.1*C Humidity=25.5%
+2024-02-12 12:39:27.874 | INFO     | __main__:<module>:17 - Temp=27.0*C Humidity=25.7%
+2024-02-12 12:39:38.233 | INFO     | __main__:<module>:17 - Temp=27.0*C Humidity=25.6%
+2024-02-12 12:39:48.596 | INFO     | __main__:<module>:17 - Temp=26.9*C Humidity=25.6%
+2024-02-12 12:39:58.958 | INFO     | __main__:<module>:17 - Temp=26.9*C Humidity=25.5%
+2024-02-12 12:40:09.321 | INFO     | __main__:<module>:17 - Temp=26.8*C Humidity=25.8%
+2024-02-12 12:40:19.683 | INFO     | __main__:<module>:17 - Temp=26.8*C Humidity=25.8%
+2024-02-12 12:40:30.042 | INFO     | __main__:<module>:17 - Temp=26.8*C Humidity=25.8%
+2024-02-12 12:40:40.404 | INFO     | __main__:<module>:17 - Temp=26.8*C Humidity=25.8%
+2024-02-12 12:40:50.766 | INFO     | __main__:<module>:17 - Temp=26.7*C Humidity=25.7%
+2024-02-12 12:41:01.129 | INFO     | __main__:<module>:17 - Temp=26.7*C Humidity=25.7%
+2024-02-12 12:41:11.491 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:41:21.854 | INFO     | __main__:<module>:17 - Temp=26.7*C Humidity=26.0%
+2024-02-12 12:41:32.216 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=26.3%
+2024-02-12 12:41:42.579 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=26.3%
+2024-02-12 12:41:52.941 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=26.5%
+2024-02-12 12:42:03.304 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=26.5%
+2024-02-12 12:42:13.666 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=26.5%
+2024-02-12 12:42:24.028 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=26.5%
+2024-02-12 12:42:34.391 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=26.4%
+2024-02-12 12:42:44.753 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=26.4%
+2024-02-12 12:42:55.116 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=26.5%
+2024-02-12 12:43:05.478 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=26.6%
+2024-02-12 12:43:15.841 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.7%
+2024-02-12 12:43:26.202 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.7%
+2024-02-12 12:43:36.564 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=27.0%
+2024-02-12 12:43:46.926 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=27.0%
+2024-02-12 12:43:57.289 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:44:07.651 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.7%
+2024-02-12 12:44:18.014 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.6%
+2024-02-12 12:44:28.376 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.5%
+2024-02-12 12:44:38.739 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.5%
+2024-02-12 12:44:49.101 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:44:59.464 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:45:09.818 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:45:20.180 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.4%
+2024-02-12 12:45:30.542 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.4%
+2024-02-12 12:45:40.905 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.3%
+2024-02-12 12:45:51.267 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.4%
+2024-02-12 12:46:01.630 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.3%
+2024-02-12 12:46:11.992 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.4%
+2024-02-12 12:46:22.355 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.3%
+2024-02-12 12:46:32.717 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=26.4%
+2024-02-12 12:46:43.080 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.4%
+2024-02-12 12:46:53.442 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:47:03.805 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.4%
+2024-02-12 12:47:14.167 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.5%
+2024-02-12 12:47:24.530 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.5%
+2024-02-12 12:47:34.892 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.5%
+2024-02-12 12:47:45.255 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:47:55.617 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.5%
+2024-02-12 12:48:05.979 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:48:16.342 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:48:26.704 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:48:37.067 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:48:47.429 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:48:57.792 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:49:08.154 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:49:18.516 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:49:28.878 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:49:39.241 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:49:49.603 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:49:59.966 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:50:10.328 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 12:50:20.691 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.4%
+2024-02-12 12:50:31.053 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:50:41.416 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.5%
+2024-02-12 12:50:51.778 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.4%
+2024-02-12 12:51:02.137 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 12:51:12.500 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 12:51:22.862 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:51:33.225 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:51:43.587 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 12:51:53.950 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:52:04.312 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:52:14.675 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:52:25.037 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:52:35.400 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:52:45.762 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:52:56.122 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:53:06.484 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:53:16.846 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:53:27.209 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:53:37.569 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 12:53:47.932 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 12:53:58.294 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 12:54:08.657 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:54:19.019 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:54:29.382 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 12:54:39.744 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:54:50.105 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:55:00.468 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 12:55:10.830 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.6%
+2024-02-12 12:55:21.193 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.6%
+2024-02-12 12:55:31.555 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.6%
+2024-02-12 12:55:41.918 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.7%
+2024-02-12 12:55:52.280 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.6%
+2024-02-12 12:56:02.643 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 12:56:13.005 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.6%
+2024-02-12 12:56:23.368 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.6%
+2024-02-12 12:56:33.730 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.6%
+2024-02-12 12:56:44.090 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:56:54.452 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.6%
+2024-02-12 12:57:04.815 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.6%
+2024-02-12 12:57:15.177 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 12:57:25.539 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 12:57:35.902 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 12:57:46.264 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:57:56.627 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 12:58:06.989 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.6%
+2024-02-12 12:58:17.352 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 12:58:27.714 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:58:38.073 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:58:48.436 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 12:58:58.798 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 12:59:09.153 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 12:59:19.513 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 12:59:29.873 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 12:59:40.233 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 12:59:50.593 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:00:00.953 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.7%
+2024-02-12 13:00:11.313 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:00:21.673 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.7%
+2024-02-12 13:00:32.033 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:00:42.393 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.7%
+2024-02-12 13:00:52.753 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:01:03.113 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:01:13.473 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:01:23.833 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:01:34.193 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:01:44.553 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:01:54.913 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:02:05.273 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:02:15.633 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:02:25.993 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:02:36.353 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:02:46.713 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:02:57.073 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:03:07.433 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:03:17.793 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:03:28.153 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:03:38.513 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:03:48.873 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:03:59.233 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:04:09.593 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:04:19.953 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:04:30.313 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:04:40.673 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:04:51.033 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:05:01.393 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:05:11.753 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:05:22.113 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:05:32.473 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:05:42.833 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:05:53.193 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:06:03.553 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:06:13.913 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.6%
+2024-02-12 13:06:24.273 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:06:34.633 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:06:44.993 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:06:55.353 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:07:05.713 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.6%
+2024-02-12 13:07:16.073 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.6%
+2024-02-12 13:07:26.433 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:07:36.793 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.7%
+2024-02-12 13:07:47.153 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:07:57.513 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.6%
+2024-02-12 13:08:07.873 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:08:18.233 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.6%
+2024-02-12 13:08:28.593 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.6%
+2024-02-12 13:08:38.953 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.6%
+2024-02-12 13:08:49.313 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.7%
+2024-02-12 13:08:59.673 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:09:10.033 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:09:20.393 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.7%
+2024-02-12 13:09:30.753 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.7%
+2024-02-12 13:09:41.113 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.7%
+2024-02-12 13:09:51.473 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:10:01.833 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:10:12.193 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:10:22.553 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:10:32.913 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:10:43.273 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:10:53.633 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:11:03.993 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:11:14.353 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:11:24.713 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:11:35.073 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:11:45.433 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:11:55.793 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:12:06.153 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:12:16.513 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:12:26.873 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:12:37.233 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:12:47.593 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:12:57.953 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:13:08.313 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:13:18.673 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:13:29.033 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:13:39.393 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:13:49.753 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:14:00.113 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:14:10.473 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.4%
+2024-02-12 13:14:20.833 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:14:31.193 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.4%
+2024-02-12 13:14:41.553 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 13:14:51.913 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 13:15:02.273 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:15:12.633 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:15:22.993 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:15:33.353 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:15:43.713 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:15:54.073 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:16:04.433 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:16:14.793 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:16:25.153 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:16:35.513 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.2%
+2024-02-12 13:16:45.873 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.2%
+2024-02-12 13:16:56.233 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:17:06.593 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.2%
+2024-02-12 13:17:16.953 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:17:27.313 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.2%
+2024-02-12 13:17:37.673 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:17:48.033 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:17:58.393 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:18:08.753 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:18:19.113 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.2%
+2024-02-12 13:18:29.473 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.2%
+2024-02-12 13:18:39.833 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:18:50.193 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:19:00.553 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:19:10.913 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:19:21.273 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:19:31.633 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:19:41.993 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:19:52.353 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:20:02.713 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:20:13.073 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:20:23.433 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:20:33.793 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.1%
+2024-02-12 13:20:44.153 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=26.2%
+2024-02-12 13:20:54.513 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:21:04.873 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:21:15.233 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:21:25.593 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:21:35.953 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:21:46.313 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:21:56.673 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:22:07.033 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:22:17.393 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:22:27.753 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:22:38.113 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:22:48.473 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:22:58.833 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:23:09.193 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:23:19.553 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:23:29.913 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:23:40.273 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:23:50.633 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:24:00.993 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:24:11.353 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:24:21.713 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:24:32.073 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:24:42.433 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:24:52.793 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:25:03.153 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:25:13.513 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:25:23.873 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:25:34.233 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:25:44.593 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:25:54.953 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:26:05.313 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:26:15.673 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:26:26.033 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:26:36.393 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:26:46.753 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:26:57.113 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:27:07.473 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:27:17.833 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:27:28.193 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:27:38.553 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:27:48.913 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:27:59.273 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:28:09.633 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:28:19.993 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:28:30.353 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:28:40.713 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:28:51.073 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:29:01.433 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:29:11.793 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:29:22.153 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:29:32.513 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:29:42.873 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:29:53.233 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:30:03.593 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:30:13.953 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:30:24.313 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:30:34.673 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:30:45.033 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:30:55.393 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:31:05.753 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:31:16.113 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:31:26.473 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:31:36.833 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:31:47.193 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:31:57.553 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:32:07.913 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:32:18.273 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:32:28.633 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:32:38.993 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:32:49.353 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.3%
+2024-02-12 13:32:59.713 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:33:10.073 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:33:20.433 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:33:30.793 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:33:41.153 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:33:51.513 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:34:01.873 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:34:12.233 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:34:22.593 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:34:32.953 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 13:34:43.313 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:34:53.673 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 13:35:04.033 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:35:14.393 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:35:24.753 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:35:35.113 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:35:45.473 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:35:55.833 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:36:06.193 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:36:16.553 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:36:26.913 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:36:37.273 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:36:47.633 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:36:57.993 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:37:08.353 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 13:37:18.713 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:37:29.073 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:37:39.433 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 13:37:49.793 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 13:38:00.153 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 13:38:10.513 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.6%
+2024-02-12 13:38:20.873 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:38:31.233 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:38:41.593 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.2%
+2024-02-12 13:38:51.953 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:39:02.313 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.7%
+2024-02-12 13:39:12.673 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 13:39:23.033 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=28.3%
+2024-02-12 13:39:33.393 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.7%
+2024-02-12 13:39:43.753 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.5%
+2024-02-12 13:39:54.113 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:40:04.473 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:40:14.833 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:40:25.193 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:40:35.553 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:40:45.913 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.4%
+2024-02-12 13:40:56.273 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 13:41:06.633 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:41:16.993 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:41:27.353 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:41:37.713 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:41:48.073 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:41:58.433 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:42:08.793 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:42:19.153 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:42:29.513 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:42:39.873 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:42:50.233 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:43:00.593 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:43:10.953 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:43:21.313 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:43:31.673 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:43:42.033 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:43:52.393 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.2%
+2024-02-12 13:44:02.753 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 13:44:13.113 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:44:23.473 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:44:33.833 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:44:44.193 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.0%
+2024-02-12 13:44:54.553 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 13:45:04.913 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:45:15.273 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:45:25.633 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:45:35.993 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:45:46.353 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:45:56.713 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:46:07.073 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:46:17.433 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:46:27.793 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:46:38.153 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:46:48.513 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:46:58.873 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:47:09.233 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:47:19.593 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:47:29.953 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:47:40.313 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:47:50.673 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:48:01.033 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:48:11.393 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:48:21.753 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:48:32.113 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:48:42.473 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:48:52.833 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:49:03.193 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:49:13.553 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:49:23.913 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:49:34.273 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:49:44.633 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:49:54.993 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:50:05.353 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:50:15.713 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:50:26.073 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:50:36.433 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:50:46.793 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:50:57.153 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:51:07.513 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:51:17.873 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:51:28.233 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:51:38.593 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:51:48.953 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.9%
+2024-02-12 13:51:59.313 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:52:09.673 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:52:20.033 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:52:30.393 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.9%
+2024-02-12 13:52:40.753 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:52:51.113 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 13:53:01.473 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:53:11.833 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:53:22.193 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:53:32.553 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:53:42.913 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:53:53.273 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:54:03.633 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.1%
+2024-02-12 13:54:13.993 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:54:24.353 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:54:34.713 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:54:45.073 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:54:55.433 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 13:55:05.793 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.9%
+2024-02-12 13:55:16.153 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.8%
+2024-02-12 13:55:26.513 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.9%
+2024-02-12 13:55:36.873 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.8%
+2024-02-12 13:55:47.233 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.7%
+2024-02-12 13:55:57.593 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.8%
+2024-02-12 13:56:07.953 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:56:18.313 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 13:56:28.673 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:56:39.033 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:56:49.393 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:56:59.753 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:57:10.113 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:57:20.473 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:57:30.833 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.6%
+2024-02-12 13:57:41.193 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:57:51.553 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:58:01.913 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:58:12.273 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:58:22.633 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=25.7%
+2024-02-12 13:58:32.993 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.7%
+2024-02-12 13:58:43.353 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.7%
+2024-02-12 13:58:53.713 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.7%
+2024-02-12 13:59:04.073 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.8%
+2024-02-12 13:59:14.433 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.8%
+2024-02-12 13:59:24.793 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.8%
+2024-02-12 13:59:35.153 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=25.8%
+2024-02-12 13:59:45.513 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 13:59:55.873 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:00:06.233 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:00:16.593 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 14:00:26.953 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:00:37.313 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:00:47.673 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 14:00:58.033 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 14:01:08.393 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.0%
+2024-02-12 14:01:18.753 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 14:01:29.113 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 14:01:39.473 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 14:01:49.833 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:02:00.193 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:02:10.553 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.0%
+2024-02-12 14:02:20.913 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.9%
+2024-02-12 14:02:31.273 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.9%
+2024-02-12 14:02:41.633 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.0%
+2024-02-12 14:02:51.993 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.0%
+2024-02-12 14:03:02.353 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.0%
+2024-02-12 14:03:12.713 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.0%
+2024-02-12 14:03:23.073 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:03:33.433 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:03:43.793 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:03:54.153 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:04:04.513 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:04:14.873 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:04:25.233 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:04:35.593 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.1%
+2024-02-12 14:04:45.953 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:04:56.313 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:05:06.673 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:05:17.033 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:05:27.393 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:05:37.753 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.0%
+2024-02-12 14:05:48.113 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:05:58.473 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:06:08.833 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.1%
+2024-02-12 14:06:19.193 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.1%
+2024-02-12 14:06:29.553 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=26.1%
+2024-02-12 14:06:39.913 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:06:50.273 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:07:00.633 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.1%
+2024-02-12 14:07:10.993 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:07:21.353 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.0%
+2024-02-12 14:14:36.862 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 14:14:47.225 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.9%
+2024-02-12 14:24:39.463 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:24:49.818 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:25:00.180 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:25:10.543 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:25:20.905 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:25:31.268 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:25:41.630 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:25:51.992 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:26:02.355 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:26:12.717 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:26:23.080 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:26:33.442 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:26:43.805 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:26:54.167 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:27:04.530 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:27:14.883 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:27:25.243 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:27:35.603 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:27:45.963 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:27:56.323 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:28:06.683 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:28:17.043 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:28:27.403 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:28:37.763 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:28:48.123 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:28:58.483 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:29:08.843 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:29:19.203 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:29:29.563 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:29:39.923 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:29:50.283 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:30:00.643 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:30:11.003 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:30:21.363 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:30:31.723 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:30:42.083 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:30:52.443 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:31:02.803 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:31:13.163 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:31:23.523 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:31:33.883 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.7%
+2024-02-12 14:31:44.243 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.7%
+2024-02-12 14:31:54.603 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:32:04.963 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:32:15.323 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:32:25.683 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:32:36.043 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:32:46.403 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.8%
+2024-02-12 14:32:56.763 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=26.5%
+2024-02-12 14:33:07.123 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:33:17.483 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=25.9%
+2024-02-12 14:33:27.843 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:33:38.203 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 14:33:48.563 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.3%
+2024-02-12 14:33:58.923 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=26.0%
+2024-02-12 14:34:09.283 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:34:19.643 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:34:30.004 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:34:40.364 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-12 14:34:50.726 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.8%
+2024-02-12 14:35:01.089 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:35:11.450 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-12 14:35:21.810 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-12 14:35:32.173 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:35:42.533 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:35:52.893 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:36:03.253 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:36:13.613 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:36:23.973 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.6%
+2024-02-12 14:36:34.333 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:36:44.693 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-12 14:36:55.053 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-12 14:37:05.413 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=25.7%
+2024-02-14 13:43:21.682 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=40.3%
+2024-02-14 13:43:32.043 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:43:42.406 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=40.3%
+2024-02-14 13:43:52.768 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=40.2%
+2024-02-14 13:44:03.127 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=40.2%
+2024-02-14 13:44:13.490 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=40.1%
+2024-02-14 13:44:23.849 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=40.1%
+2024-02-14 13:44:34.211 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=39.9%
+2024-02-14 13:44:44.574 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=39.9%
+2024-02-14 13:44:54.937 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=40.0%
+2024-02-14 13:45:05.299 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=39.9%
+2024-02-14 13:45:15.662 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=39.9%
+2024-02-14 13:45:26.024 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=39.8%
+2024-02-14 13:45:36.379 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=39.9%
+2024-02-14 13:45:46.742 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=40.3%
+2024-02-14 13:45:57.104 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=40.2%
+2024-02-14 13:46:07.467 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=40.2%
+2024-02-14 13:46:17.825 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=40.3%
+2024-02-14 13:46:28.188 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=45.3%
+2024-02-14 13:46:38.550 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=57.5%
+2024-02-14 13:46:48.907 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=42.9%
+2024-02-14 13:46:59.270 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=40.8%
+2024-02-14 13:47:09.627 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=40.2%
+2024-02-14 13:47:19.990 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=39.9%
+2024-02-14 13:47:30.352 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=39.8%
+2024-02-14 13:47:40.715 | INFO     | __main__:<module>:17 - Temp=25.8*C Humidity=39.7%
+2024-02-14 13:47:51.077 | INFO     | __main__:<module>:17 - Temp=25.8*C Humidity=39.9%
+2024-02-14 13:48:01.440 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=39.8%
+2024-02-14 13:48:11.803 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=39.9%
+2024-02-14 13:48:22.165 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=40.0%
+2024-02-14 13:48:32.528 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=40.1%
+2024-02-14 13:48:42.890 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=40.1%
+2024-02-14 13:48:53.253 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:49:03.611 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=40.1%
+2024-02-14 13:49:13.971 | INFO     | __main__:<module>:17 - Temp=25.5*C Humidity=40.1%
+2024-02-14 13:49:24.334 | INFO     | __main__:<module>:17 - Temp=25.5*C Humidity=40.1%
+2024-02-14 13:49:34.696 | INFO     | __main__:<module>:17 - Temp=25.5*C Humidity=40.2%
+2024-02-14 13:49:45.059 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:49:55.421 | INFO     | __main__:<module>:17 - Temp=25.4*C Humidity=40.2%
+2024-02-14 13:50:05.784 | INFO     | __main__:<module>:17 - Temp=25.4*C Humidity=40.1%
+2024-02-14 13:50:16.143 | INFO     | __main__:<module>:17 - Temp=25.4*C Humidity=40.2%
+2024-02-14 13:50:26.503 | INFO     | __main__:<module>:17 - Temp=25.4*C Humidity=40.2%
+2024-02-14 13:50:36.863 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=40.2%
+2024-02-14 13:50:47.223 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=40.3%
+2024-02-14 13:50:57.583 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=40.3%
+2024-02-14 13:51:07.943 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=40.3%
+2024-02-14 13:51:18.303 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:51:28.663 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.4%
+2024-02-14 13:51:39.023 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.5%
+2024-02-14 13:51:49.383 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.8%
+2024-02-14 13:51:59.745 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 13:52:10.108 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 13:52:20.471 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=40.4%
+2024-02-14 13:52:30.833 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=40.4%
+2024-02-14 13:52:41.196 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:52:51.558 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:53:01.915 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=40.2%
+2024-02-14 13:53:12.278 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.3%
+2024-02-14 13:53:22.641 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:53:33.003 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.3%
+2024-02-14 13:53:43.366 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.3%
+2024-02-14 13:53:53.728 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.3%
+2024-02-14 13:54:04.091 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.3%
+2024-02-14 13:54:14.456 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 13:54:24.820 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:54:35.182 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.3%
+2024-02-14 13:54:45.545 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:54:55.907 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=40.3%
+2024-02-14 13:55:06.265 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 13:55:16.629 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=40.4%
+2024-02-14 13:55:26.992 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=40.3%
+2024-02-14 13:55:37.348 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=40.5%
+2024-02-14 13:55:47.707 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=40.4%
+2024-02-14 13:55:58.068 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=40.4%
+2024-02-14 13:56:08.423 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:56:18.784 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:56:29.143 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=40.8%
+2024-02-14 13:56:39.503 | INFO     | __main__:<module>:17 - Temp=25.1*C Humidity=40.8%
+2024-02-14 13:56:49.863 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 13:57:00.223 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.6%
+2024-02-14 13:57:10.583 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.5%
+2024-02-14 13:57:20.943 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.4%
+2024-02-14 13:57:31.304 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:57:41.663 | INFO     | __main__:<module>:17 - Temp=25.2*C Humidity=40.5%
+2024-02-14 13:57:52.023 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=40.5%
+2024-02-14 13:58:02.384 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=40.6%
+2024-02-14 13:58:12.743 | INFO     | __main__:<module>:17 - Temp=25.3*C Humidity=40.6%
+2024-02-14 13:58:23.103 | INFO     | __main__:<module>:17 - Temp=25.4*C Humidity=40.7%
+2024-02-14 13:58:33.464 | INFO     | __main__:<module>:17 - Temp=25.4*C Humidity=40.8%
+2024-02-14 13:58:43.824 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 13:58:54.183 | INFO     | __main__:<module>:17 - Temp=25.4*C Humidity=41.0%
+2024-02-14 13:59:04.544 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:59:14.903 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:59:25.263 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 13:59:35.624 | INFO     | __main__:<module>:17 - Temp=25.5*C Humidity=41.0%
+2024-02-14 13:59:45.986 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 13:59:56.349 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:00:06.711 | INFO     | __main__:<module>:17 - Temp=25.5*C Humidity=41.2%
+2024-02-14 14:00:17.074 | INFO     | __main__:<module>:17 - Temp=25.5*C Humidity=41.1%
+2024-02-14 14:00:27.437 | INFO     | __main__:<module>:17 - Temp=25.5*C Humidity=41.3%
+2024-02-14 14:00:37.799 | INFO     | __main__:<module>:17 - Temp=25.5*C Humidity=41.3%
+2024-02-14 14:00:48.162 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:00:58.524 | INFO     | __main__:<module>:17 - Temp=25.5*C Humidity=41.1%
+2024-02-14 14:01:08.887 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:01:19.250 | INFO     | __main__:<module>:17 - Temp=25.6*C Humidity=41.3%
+2024-02-14 14:01:29.613 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:01:39.975 | INFO     | __main__:<module>:17 - Temp=25.7*C Humidity=41.1%
+2024-02-14 14:01:50.338 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:02:00.700 | INFO     | __main__:<module>:17 - Temp=25.8*C Humidity=40.8%
+2024-02-14 14:02:11.063 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:02:21.426 | INFO     | __main__:<module>:17 - Temp=25.8*C Humidity=40.8%
+2024-02-14 14:02:31.789 | INFO     | __main__:<module>:17 - Temp=25.8*C Humidity=40.6%
+2024-02-14 14:02:42.152 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:02:52.514 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:03:02.877 | INFO     | __main__:<module>:17 - Temp=25.8*C Humidity=41.2%
+2024-02-14 14:03:13.240 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=40.8%
+2024-02-14 14:03:23.602 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=40.9%
+2024-02-14 14:03:33.955 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=40.7%
+2024-02-14 14:03:44.318 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:03:54.681 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=40.9%
+2024-02-14 14:04:05.044 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=40.7%
+2024-02-14 14:04:15.406 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:04:25.769 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=40.8%
+2024-02-14 14:04:36.132 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:04:46.495 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.0%
+2024-02-14 14:04:56.857 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:05:07.220 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:05:17.583 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.1%
+2024-02-14 14:05:27.945 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:05:38.308 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:05:48.671 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:05:59.033 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.1%
+2024-02-14 14:06:09.396 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:06:19.759 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:06:30.121 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.0%
+2024-02-14 14:06:40.484 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:06:50.846 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=40.9%
+2024-02-14 14:07:01.209 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:07:11.572 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=41.2%
+2024-02-14 14:07:21.934 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=41.2%
+2024-02-14 14:07:32.297 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=41.2%
+2024-02-14 14:07:42.652 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:07:53.014 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=41.1%
+2024-02-14 14:08:03.377 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:08:13.739 | INFO     | __main__:<module>:17 - Temp=25.9*C Humidity=41.3%
+2024-02-14 14:08:24.102 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:08:34.465 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:08:44.828 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.3%
+2024-02-14 14:08:55.190 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.1%
+2024-02-14 14:09:05.553 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:09:15.916 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.1%
+2024-02-14 14:09:26.278 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:09:36.641 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:09:47.004 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.3%
+2024-02-14 14:09:57.366 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:10:07.729 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:10:18.091 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:10:28.454 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.3%
+2024-02-14 14:10:38.816 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.4%
+2024-02-14 14:10:49.179 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.3%
+2024-02-14 14:10:59.541 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.4%
+2024-02-14 14:11:09.904 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.4%
+2024-02-14 14:11:20.266 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.4%
+2024-02-14 14:11:30.629 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.4%
+2024-02-14 14:11:40.991 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.1%
+2024-02-14 14:11:51.354 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:12:01.717 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.3%
+2024-02-14 14:12:12.079 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.2%
+2024-02-14 14:12:22.440 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:12:32.799 | INFO     | __main__:<module>:17 - Temp=26.0*C Humidity=41.3%
+2024-02-14 14:12:43.162 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=45.4%
+2024-02-14 14:12:53.524 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=41.4%
+2024-02-14 14:13:03.887 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=41.1%
+2024-02-14 14:13:14.250 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=40.8%
+2024-02-14 14:13:24.612 | INFO     | __main__:<module>:17 - Temp=26.2*C Humidity=41.2%
+2024-02-14 14:13:34.975 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:13:45.337 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=40.8%
+2024-02-14 14:13:55.700 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.3%
+2024-02-14 14:14:06.062 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=40.9%
+2024-02-14 14:14:16.425 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:14:26.787 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.1%
+2024-02-14 14:14:37.150 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.2%
+2024-02-14 14:14:47.503 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:14:57.863 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.2%
+2024-02-14 14:15:08.223 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.2%
+2024-02-14 14:15:18.583 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.3%
+2024-02-14 14:15:28.943 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.0%
+2024-02-14 14:15:39.303 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.1%
+2024-02-14 14:15:49.663 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.1%
+2024-02-14 14:16:00.023 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.0%
+2024-02-14 14:16:10.383 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.1%
+2024-02-14 14:16:20.743 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.3%
+2024-02-14 14:16:31.103 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:16:41.463 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.1%
+2024-02-14 14:16:51.823 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:17:02.183 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.2%
+2024-02-14 14:17:12.543 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.5%
+2024-02-14 14:17:22.903 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.4%
+2024-02-14 14:17:33.263 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.4%
+2024-02-14 14:17:43.623 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.1%
+2024-02-14 14:17:53.984 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:18:04.347 | INFO     | __main__:<module>:17 - Temp=26.1*C Humidity=41.1%
+2024-02-14 14:18:14.709 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=49.2%
+2024-02-14 14:18:25.072 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=42.2%
+2024-02-14 14:18:35.427 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:18:45.782 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:18:56.144 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=48.5%
+2024-02-14 14:19:06.507 | INFO     | __main__:<module>:17 - Temp=26.8*C Humidity=48.2%
+2024-02-14 14:19:16.869 | INFO     | __main__:<module>:17 - Temp=26.8*C Humidity=42.4%
+2024-02-14 14:19:27.232 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:19:37.594 | INFO     | __main__:<module>:17 - Temp=26.7*C Humidity=40.4%
+2024-02-14 14:19:47.957 | INFO     | __main__:<module>:17 - Temp=26.7*C Humidity=40.3%
+2024-02-14 14:19:58.319 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 14:20:08.682 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.3%
+2024-02-14 14:20:19.044 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 14:20:29.407 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.5%
+2024-02-14 14:20:39.770 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.6%
+2024-02-14 14:20:50.132 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:21:00.495 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:21:10.857 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:21:21.215 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:21:31.578 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:21:41.941 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:21:52.307 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:22:02.667 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:22:13.030 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:22:23.393 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.2%
+2024-02-14 14:22:33.755 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.8%
+2024-02-14 14:22:44.118 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.7%
+2024-02-14 14:22:54.480 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:23:04.843 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:23:15.206 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:23:25.568 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:23:35.931 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.0%
+2024-02-14 14:23:46.293 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.0%
+2024-02-14 14:23:56.656 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.8%
+2024-02-14 14:24:07.018 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:24:17.381 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:24:27.744 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:24:38.106 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.0%
+2024-02-14 14:24:48.469 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.8%
+2024-02-14 14:24:58.831 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:25:09.194 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.2%
+2024-02-14 14:25:19.556 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.3%
+2024-02-14 14:25:29.919 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.1%
+2024-02-14 14:25:40.282 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.2%
+2024-02-14 14:25:50.644 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.1%
+2024-02-14 14:26:01.007 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.0%
+2024-02-14 14:26:11.369 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.7%
+2024-02-14 14:26:21.732 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:26:32.094 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.8%
+2024-02-14 14:26:42.457 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.8%
+2024-02-14 14:26:52.820 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.0%
+2024-02-14 14:27:03.179 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:27:13.542 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.1%
+2024-02-14 14:27:23.905 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=40.9%
+2024-02-14 14:27:34.268 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:27:44.631 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.2%
+2024-02-14 14:27:54.990 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.2%
+2024-02-14 14:28:05.352 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.2%
+2024-02-14 14:28:15.715 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.2%
+2024-02-14 14:28:26.071 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.5%
+2024-02-14 14:28:36.434 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.4%
+2024-02-14 14:28:46.796 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.0%
+2024-02-14 14:28:57.159 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.2%
+2024-02-14 14:29:07.522 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.2%
+2024-02-14 14:29:17.885 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.2%
+2024-02-14 14:29:28.247 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:29:38.610 | INFO     | __main__:<module>:17 - Temp=26.3*C Humidity=41.2%
+2024-02-14 14:29:48.972 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.2%
+2024-02-14 14:29:59.335 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:30:09.697 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.3%
+2024-02-14 14:30:20.060 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.3%
+2024-02-14 14:30:30.415 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.0%
+2024-02-14 14:30:40.778 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:30:51.141 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:31:01.503 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.0%
+2024-02-14 14:31:11.866 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:31:22.228 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:31:32.591 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:31:42.954 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:31:53.316 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:32:03.679 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:32:14.042 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:32:24.403 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:32:34.763 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:32:45.123 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:32:55.483 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:33:05.843 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:33:16.203 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:33:26.563 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.1%
+2024-02-14 14:33:36.923 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:33:47.283 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:33:57.643 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:34:08.003 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:34:18.363 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:34:28.723 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:34:39.083 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:34:49.443 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.7%
+2024-02-14 14:34:59.803 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:35:10.163 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:35:20.523 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:35:30.883 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.0%
+2024-02-14 14:35:41.243 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:35:51.603 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=41.1%
+2024-02-14 14:36:01.963 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.2%
+2024-02-14 14:36:12.323 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.1%
+2024-02-14 14:36:22.683 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.1%
+2024-02-14 14:36:33.044 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:36:43.406 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:36:53.759 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:37:04.122 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.1%
+2024-02-14 14:37:14.477 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:37:24.840 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:37:35.202 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:37:45.565 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:37:55.927 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:38:06.290 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.1%
+2024-02-14 14:38:16.652 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:38:27.015 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:38:37.378 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:38:47.740 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:38:58.103 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:39:08.463 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:39:18.826 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:39:29.188 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.1%
+2024-02-14 14:39:39.551 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:39:49.914 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:40:00.276 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.6%
+2024-02-14 14:40:10.639 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:40:21.002 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:40:31.364 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:40:41.727 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:40:52.089 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:41:02.452 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:41:12.814 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:41:23.177 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:41:33.540 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:41:43.902 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:41:54.265 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:42:04.627 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:42:14.990 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:42:25.353 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:42:35.715 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:42:46.078 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:42:56.440 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:43:06.803 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:43:17.165 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.1%
+2024-02-14 14:43:27.528 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:43:37.891 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:43:48.252 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.2%
+2024-02-14 14:43:58.614 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.3%
+2024-02-14 14:44:08.967 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.1%
+2024-02-14 14:44:19.330 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.2%
+2024-02-14 14:44:29.693 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:44:40.055 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.1%
+2024-02-14 14:44:50.418 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:45:00.779 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.9%
+2024-02-14 14:45:11.142 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.0%
+2024-02-14 14:45:21.504 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.1%
+2024-02-14 14:45:31.864 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:45:42.223 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.9%
+2024-02-14 14:45:52.586 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 14:46:02.939 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 14:46:13.299 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:46:23.662 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.9%
+2024-02-14 14:46:34.023 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.9%
+2024-02-14 14:46:44.383 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:46:54.744 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.1%
+2024-02-14 14:47:05.103 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:47:15.463 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 14:47:25.823 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 14:47:36.183 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 14:47:46.543 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 14:47:56.903 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 14:48:07.263 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 14:48:17.623 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.8%
+2024-02-14 14:48:27.983 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.0%
+2024-02-14 14:48:38.343 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 14:48:48.703 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:48:59.063 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:49:09.423 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 14:49:19.783 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.8%
+2024-02-14 14:49:30.143 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.8%
+2024-02-14 14:49:40.503 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 14:49:50.863 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:50:01.223 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 14:50:11.583 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.8%
+2024-02-14 14:50:21.943 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.8%
+2024-02-14 14:50:32.303 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 14:50:42.663 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 14:50:53.023 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:51:03.383 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:51:13.743 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 14:51:24.103 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 14:51:34.464 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:51:44.824 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:51:55.186 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.3%
+2024-02-14 14:52:05.549 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.5%
+2024-02-14 14:52:15.911 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:52:26.274 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.5%
+2024-02-14 14:52:36.637 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.6%
+2024-02-14 14:52:46.999 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.5%
+2024-02-14 14:52:57.362 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.6%
+2024-02-14 14:53:07.719 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:53:18.082 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:53:28.445 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:53:38.807 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:53:49.170 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:53:59.532 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:54:09.895 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:54:20.258 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:54:30.620 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.5%
+2024-02-14 14:54:40.983 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.6%
+2024-02-14 14:54:51.345 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:55:01.708 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.7%
+2024-02-14 14:55:12.070 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.7%
+2024-02-14 14:55:22.433 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:55:32.796 | INFO     | __main__:<module>:17 - Temp=26.4*C Humidity=40.9%
+2024-02-14 14:55:43.159 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:55:53.513 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.2%
+2024-02-14 14:56:03.873 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:56:14.233 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 14:56:24.593 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:56:34.954 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 14:56:45.317 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.3%
+2024-02-14 14:56:55.675 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.4%
+2024-02-14 14:57:06.038 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.5%
+2024-02-14 14:57:16.400 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:57:26.753 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.7%
+2024-02-14 14:57:37.113 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.2%
+2024-02-14 14:57:47.473 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:57:57.833 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:58:08.193 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.1%
+2024-02-14 14:58:18.553 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:58:28.913 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 14:58:39.273 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 14:58:49.633 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 14:58:59.993 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 14:59:10.353 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 14:59:20.713 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.3%
+2024-02-14 14:59:31.073 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 14:59:41.433 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 14:59:51.793 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 15:00:02.153 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 15:00:12.513 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 15:00:22.873 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 15:00:33.234 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 15:00:43.594 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 15:00:53.953 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:01:04.313 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:01:14.674 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 15:01:25.037 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 15:01:35.397 | INFO     | __main__:<module>:17 - Temp=26.7*C Humidity=40.4%
+2024-02-14 15:01:45.759 | INFO     | __main__:<module>:17 - Temp=26.7*C Humidity=40.4%
+2024-02-14 15:01:56.118 | INFO     | __main__:<module>:17 - Temp=26.7*C Humidity=40.3%
+2024-02-14 15:02:06.481 | INFO     | __main__:<module>:17 - Temp=26.7*C Humidity=40.2%
+2024-02-14 15:02:16.839 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:02:27.202 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.1%
+2024-02-14 15:02:37.563 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.1%
+2024-02-14 15:02:47.926 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.2%
+2024-02-14 15:02:58.288 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.1%
+2024-02-14 15:03:08.646 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.2%
+2024-02-14 15:03:19.008 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.3%
+2024-02-14 15:03:29.371 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 15:03:39.733 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.3%
+2024-02-14 15:03:50.096 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 15:04:00.458 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 15:04:10.821 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 15:04:21.183 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:04:31.546 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 15:04:41.909 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.2%
+2024-02-14 15:04:52.271 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 15:05:02.634 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 15:05:12.996 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 15:05:23.356 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:05:33.715 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:05:44.077 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 15:05:54.440 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 15:06:04.795 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 15:06:15.158 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:06:25.515 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:06:35.878 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.2%
+2024-02-14 15:06:46.240 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 15:06:56.603 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 15:07:06.966 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 15:07:17.328 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 15:07:27.691 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 15:07:38.053 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:07:48.407 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.4%
+2024-02-14 15:07:58.770 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 15:08:09.132 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 15:08:19.491 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.5%
+2024-02-14 15:08:29.851 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.6%
+2024-02-14 15:08:40.214 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 15:08:50.576 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 15:09:00.939 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=40.7%
+2024-02-14 15:09:11.302 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=40.8%
+2024-02-14 15:09:21.664 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.1%
+2024-02-14 15:09:32.027 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.2%
+2024-02-14 15:09:42.387 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.3%
+2024-02-14 15:09:52.750 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.3%
+2024-02-14 15:10:03.103 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 15:10:13.466 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.5%
+2024-02-14 15:10:23.829 | WARNING  | __main__:<module>:24 - failed to read sensor: A full buffer was not returned. Try again.
+2024-02-14 15:10:34.192 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.9%
+2024-02-14 15:10:44.554 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.6%
+2024-02-14 15:10:54.917 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:11:05.280 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.6%
+2024-02-14 15:11:15.642 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.8%
+2024-02-14 15:11:26.005 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.2%
+2024-02-14 15:11:36.367 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.6%
+2024-02-14 15:11:46.730 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.5%
+2024-02-14 15:11:57.092 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.6%
+2024-02-14 15:12:07.455 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=42.0%
+2024-02-14 15:12:17.818 | INFO     | __main__:<module>:17 - Temp=26.5*C Humidity=41.8%
+2024-02-14 15:12:28.171 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:12:38.534 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.7%
+2024-02-14 15:12:48.896 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.5%
+2024-02-14 15:12:59.259 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.3%
+2024-02-14 15:13:09.622 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.2%
+2024-02-14 15:13:19.984 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.0%
+2024-02-14 15:13:30.347 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.3%
+2024-02-14 15:13:40.709 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.4%
+2024-02-14 15:13:51.072 | WARNING  | __main__:<module>:24 - failed to read sensor: Checksum did not validate. Try again.
+2024-02-14 15:14:01.434 | INFO     | __main__:<module>:17 - Temp=26.6*C Humidity=41.2%
