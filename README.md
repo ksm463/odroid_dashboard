@@ -1,6 +1,6 @@
 # DHT22 센서 기반 온도 및 습도 대시보드 프로젝트
 
-오드로이드의 핀에 연결된 DHT22 센서를 사용하여 온도와 습도 데이터를 측정하고, FastAPI 및 SQLModel을 사용하여 SQLite 데이터베이스에 저장한 후, Dash를 사용하여 온습도 데이터를 실시간 차트로 시각화하는 대시보드를 구현하는 프로젝트입니다.
+오드로이드의 핀에 연결된 DHT22 센서를 사용하여 온도와 습도 데이터를 측정하고, FastAPI 및 SQLModel을 사용하여 SQLite 데이터베이스에 저장한 후, Dash를 사용하여 실시간 차트로 시각화하는 대시보드를 구현하는 프로젝트입니다.
 
 ## 프로젝트 구성 요소
 
@@ -20,6 +20,7 @@
 1. 필요한 라이브러리 설치:
     ```bash
     pip install fastapi uvicorn sqlmodel sqlite board loguru dash
+    pip install dash dash-core-components dash-html-components plotly
     ```
     * adafruit-circuitpython-dht는 설치 과정이 별도로 필요합니다. Odroid 위키를 참고하세요. https://wiki.odroid.com/odroid-n2/application_note/gpio/circuitpython
 
