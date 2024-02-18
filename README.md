@@ -33,9 +33,14 @@
    
 ## 프로젝트 구조
 
-main.py # FastAPI 애플리케이션 시작점
-dashboard.py # Dash 대시보드
-temp_humid.db # SQLite 데이터베이스 파일
+main.py 
+FastAPI 애플리케이션
+
+dashboard.py 
+Dash 대시보드
+
+temp_humid.db 
+SQLite 데이터베이스 파일
 
 ## 데이터 수집 및 저장
 
