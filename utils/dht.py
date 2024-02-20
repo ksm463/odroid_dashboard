@@ -6,9 +6,9 @@ class DHTSensor:
     def __init__(self, pin=board.D13):
         self.dht_device = adafruit_dht.DHT22(pin)
 
-    async def get_temperature_humidity(self):
+    def get_temperature_humidity(self):  
         attempts = 0
-        while attempts < 5:  # 최대 5번까지 재시도
+        while attempts < 5:
             try:
                 temperature = self.dht_device.temperature
                 humidity = self.dht_device.humidity
