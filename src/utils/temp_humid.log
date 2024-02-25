@@ -1,5 +1,0 @@
-2024-02-25 09:14:15.893 | WARNING | sensor.dht:get_temperature_humidity:23 - Failed to read from sensor after multiple attempts
-2024-02-25 09:14:26.254 | WARNING | sensor.dht:get_temperature_humidity:23 - Failed to read from sensor after multiple attempts
-2024-02-25 09:14:36.614 | INFO  | sensor.dht:get_temperature_humidity:16 - Temp=28.0*C Humidity=25.4%
-2024-02-25 09:14:47.014 | INFO  | sensor.dht:get_temperature_humidity:16 - Temp=28.0*C Humidity=25.5%
-2024-02-25 09:14:57.404 | INFO  | sensor.dht:get_temperature_humidity:16 - Temp=28.0*C Humidity=25.5%
