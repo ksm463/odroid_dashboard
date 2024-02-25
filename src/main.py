@@ -1,36 +1,22 @@
 from fastapi import FastAPI, HTTPException
 import uvicorn
-from sqlmodel import SQLModel, Field, create_engine, Session
+from sqlmodel import Session
 
 import board
-import datetime
-import os
-import sys
 import time
 import requests
 import threading
 
 from sensor import DHTSensor
+from db import engine, SensorData, create_tables
 from utils import config_mng, logger, send_telegram
 
 ini_dict = config_mng.get_config_dict()
 
 app = FastAPI()
 
-DATABASE_URL = "sqlite:///./temp_humid.db"
-engine = create_engine(DATABASE_URL, echo=True)
-
 dht_sensor = DHTSensor(board.D13)
 
-class SensorData(SQLModel, table=True):
-    id: int = Field(default=None, primary_key=True)
-    timestamp: datetime.datetime = Field(default_factory=datetime.datetime.now)
-    temperature: float
-    humidity: float
-
-
-def create_tables():
-    SQLModel.metadata.create_all(engine)
 
 def start_sensor_data_collection():
     sensor_thread = threading.Thread(target=sensor_data_collection_loop, daemon=True)
