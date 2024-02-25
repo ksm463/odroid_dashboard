@@ -1,3 +1,4 @@
 __pycache__/
 *.pyc
 temperature_humidity.log
+temp_humid.log
