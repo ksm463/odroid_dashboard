@@ -1,6 +1,6 @@
 import adafruit_dht
 import board
-from loguru import logger
+from utils import logger
 
 class DHTSensor:
     def __init__(self, pin=board.D13):

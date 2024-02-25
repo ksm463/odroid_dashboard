@@ -2,7 +2,6 @@ from fastapi import FastAPI, HTTPException
 import uvicorn
 from sqlmodel import SQLModel, Field, create_engine, Session
 
-from loguru import logger
 import board
 import datetime
 import os
@@ -11,7 +10,10 @@ import time
 import requests
 import threading
 
-from utils.dht import DHTSensor
+from sensor import DHTSensor
+from utils import config_mng, logger
+
+ini_dict = config_mng.get_config_dict()
 
 app = FastAPI()
 
@@ -26,9 +28,7 @@ class SensorData(SQLModel, table=True):
     temperature: float
     humidity: float
 
-logger.remove()
-logger.add("temperature_humidity.log", rotation="10 MB")
-logger.add(sys.stderr, level="INFO")
+
 
 def create_tables():
     SQLModel.metadata.create_all(engine)
