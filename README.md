@@ -44,6 +44,7 @@ config.ini
 설정값 저장 파일
 
 db 폴더
+
 db.py
 SQLModel을 이용한 db 저장
 
@@ -51,10 +52,12 @@ temp_humid.db
 SQLite 데이터베이스 파일
 
 sensor 폴더
+
 dht.py
 adafruit를 이용한 pin 신호 수신
 
 utils 폴더
+
 logger.py
 로그 저장 모듈
 
