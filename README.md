@@ -40,37 +40,37 @@
 
 #### 기본 폴더
 
-main.py 
+- main.py  
 FastAPI 애플리케이션
 
-dashboard.py 
+- dashboard.py  
 Dash 대시보드
 
-config.ini
+- config.ini  
 설정값 저장 파일
 
 #### db 폴더
 
-db.py
+- db.py  
 SQLModel을 이용한 db 저장
 
-temp_humid.db 
+- temp_humid.db   
 SQLite 데이터베이스 파일
 
 #### sensor 폴더
 
-dht.py
+- dht.py  
 adafruit를 이용한 pin 신호 수신
 
 #### utils 폴더
 
-logger.py
+- logger.py  
 로그 저장 모듈
 
-parser.py
+- parser.py  
 config.ini를 각 파일이 읽게 변환
 
-telegram.py
+- telegram.py  
 온습도가 비정상 범위에 진입하면 텔레그램 봇으로 메세지를 송신
 
 
