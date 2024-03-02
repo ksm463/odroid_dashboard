@@ -38,6 +38,8 @@
    
 ## 프로젝트 구조
 
+#### 기본 폴더
+
 main.py 
 FastAPI 애플리케이션
 
@@ -47,7 +49,7 @@ Dash 대시보드
 config.ini
 설정값 저장 파일
 
-db 폴더
+#### db 폴더
 
 db.py
 SQLModel을 이용한 db 저장
@@ -55,12 +57,12 @@ SQLModel을 이용한 db 저장
 temp_humid.db 
 SQLite 데이터베이스 파일
 
-sensor 폴더
+#### sensor 폴더
 
 dht.py
 adafruit를 이용한 pin 신호 수신
 
-utils 폴더
+#### utils 폴더
 
 logger.py
 로그 저장 모듈
