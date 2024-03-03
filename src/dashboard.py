@@ -6,7 +6,7 @@ from collections import deque
 import sqlite3
 from utils import config_mng
 
-# 고정 길이를 갖는 deque를 사용하여 최근 데이터를 저장
+
 ini_dict = config_mng.get_config_dict()
 MAX_LENGTH = ini_dict['DASH']['max_lenght']  
 DASH_INTERVAL = ini_dict['DASH']['dash_interval']
@@ -25,13 +25,14 @@ app.layout = html.Div([
     )
 ])
 
+
 # 최근 온도 습도 데이터를 DB에서 읽어오는 함수
 def read_last_temperature_humidity():
     try:
         conn = sqlite3.connect("temp_humid.db")
         c = conn.cursor()
         
-        # 가장 최근의 온도와 습도 데이터 가져오기
+        # 마지막 온도와 습도 데이터 가져오기
         c.execute("SELECT temperature, humidity, timestamp FROM sensordata ORDER BY timestamp DESC LIMIT 1")
         row = c.fetchone()
         
@@ -75,7 +76,7 @@ def update_temperature_graph(n):
     # 온도와 습도 데이터 업데이트
     update_temperature_humidity()
     
-    # 온도 그래프 데이터 생성 
+    # 온도 데이터
     temperature_data = [
         go.Scatter(
             x=list(timestamps), 
@@ -86,7 +87,7 @@ def update_temperature_graph(n):
             )
     ]
     
-    # 온도 그래프 레이아웃
+    # 온도 레이블
     temperature_layout = go.Layout(title="Real-time Temperature Data",
                                    xaxis=dict(title='Time'),
                                    yaxis=dict(title='Temperature (°C)'))
@@ -99,7 +100,7 @@ def update_temperature_graph(n):
 def update_humidity_graph(n):
     # 습도 업데이트는 온도에서 이미 했으므로 따로 진행 안함
     
-    # 습도 그래프 데이터 생성
+    # 습도 데이터
     humidity_data = [
         go.Scatter(x=list(timestamps), 
                    y=list(humidity_values), 
@@ -109,7 +110,7 @@ def update_humidity_graph(n):
                    )
     ]
     
-    # 습도 그래프 레이아웃
+    # 습도 레이블
     humidity_layout = go.Layout(title="Real-time Humidity Data",
                                 xaxis=dict(title='Time'),
                                 yaxis=dict(title='Humidity (%)'))
