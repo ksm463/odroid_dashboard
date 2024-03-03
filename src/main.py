@@ -51,10 +51,10 @@ def sensor_data_collection_loop():
         temperature, humidity = dht_sensor.get_temperature_humidity()
         if temperature is not None and humidity is not None:
             post_sensor_data(temperature, humidity)
-            # 주의 메시지 조건: 온도가 30도 이상이거나 습도가 20% 이하 또는 80% 이상일 경우
-            if temperature >= 30 or humidity <= 20 or humidity >= 50:
+            # 주의 메시지 발송 조건: 온도가 30도 이상이거나 습도가 20% 이하 또는 60% 이상일 경우
+            if temperature >= 30 or humidity <= 20 or humidity >= 60:
                 send_telegram(f"주의: 온도 {temperature}°C 또는 습도 {humidity}%가 비정상 범위에 진입했습니다.")
-            # 경고 메시지 조건: 온도가 35도 이상일 경우
+            # 경고 메시지 발송 조건: 온도가 35도 이상일 경우
             if temperature >= 35:
                 send_telegram(f"경고: 온도 {temperature}°C가 매우 높습니다.")
         time.sleep(10)
