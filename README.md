@@ -23,7 +23,7 @@
 
 1. 필요한 라이브러리 설치:
     ```bash
-    pip install fastapi uvicorn sqlmodel board loguru dash
+    pip install fastapi uvicorn sqlmodel board loguru
     pip install dash dash-core-components dash-html-components plotly
     ```
     * adafruit-circuitpython-dht는 설치 과정이 별도로 필요합니다. Odroid 위키를 참고하세요. https://wiki.odroid.com/odroid-n2/application_note/gpio/circuitpython
