@@ -4,12 +4,16 @@ from dash.dependencies import Input, Output
 import plotly.graph_objs as go
 from collections import deque
 import sqlite3
-from utils import config_mng
+from utils import config_mng, logger
 
 
 ini_dict = config_mng.get_config_dict()
 MAX_LENGTH = int(ini_dict['DASH']['max_length'])  
 DASH_INTERVAL = int(ini_dict['DASH']['dash_interval'])
+# db_path = ini_dict['DB']['DB_PATH']
+# logger.info(f"db_path : {db_path}")
+# db_name = ini_dict['DB']['DB_NAME']
+# logger.info(f"db_path : {db_name}")
 temperature_values = deque(maxlen=MAX_LENGTH)
 humidity_values = deque(maxlen=MAX_LENGTH)
 timestamps = deque(maxlen=MAX_LENGTH)
@@ -29,7 +33,7 @@ app.layout = html.Div([
 # 최근 온도 습도 데이터를 DB에서 읽어오는 함수
 def read_last_temperature_humidity():
     try:
-        conn = sqlite3.connect("temp_humid.db")
+        conn = sqlite3.connect('db/temp_humid.db')
         c = conn.cursor()
         
         # 마지막 온도와 습도 데이터 가져오기
