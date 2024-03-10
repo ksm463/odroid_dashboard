@@ -8,8 +8,8 @@ from utils import config_mng
 
 
 ini_dict = config_mng.get_config_dict()
-MAX_LENGTH = ini_dict['DASH']['max_lenght']  
-DASH_INTERVAL = ini_dict['DASH']['dash_interval']
+MAX_LENGTH = int(ini_dict['DASH']['max_length'])  
+DASH_INTERVAL = int(ini_dict['DASH']['dash_interval'])
 temperature_values = deque(maxlen=MAX_LENGTH)
 humidity_values = deque(maxlen=MAX_LENGTH)
 timestamps = deque(maxlen=MAX_LENGTH)
