@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
 import uvicorn
 from sqlmodel import Session
 
@@ -10,6 +10,7 @@ import threading
 from sensor import DHTSensor
 from db import engine, SensorData, create_tables
 from utils import config_mng, logger, send_telegram
+from router import post_router
 
 ini_dict = config_mng.get_config_dict()
 
@@ -58,6 +59,8 @@ def sensor_data_collection_loop():
             if temperature >= 35:
                 send_telegram(f"경고: 온도 {temperature}°C가 매우 높습니다.")
         time.sleep(10)
+
+app.include_router(post_router)
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
