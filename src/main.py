@@ -1,66 +1,42 @@
 from fastapi import FastAPI
 import uvicorn
-from sqlmodel import Session
+from sqlmodel import SQLModel, create_engine
 
-import board
-import time
-import requests
-import threading
+from utils import ConfigManager, DBManager, setup_logger
+from router import post_router, start_sensor_data_collection
 
-from sensor import DHTSensor
-from db import engine, SensorData, create_tables
-from utils import config_mng, logger, send_telegram
-from router import post_router
-
-ini_dict = config_mng.get_config_dict()
 
 app = FastAPI()
 
-dht_sensor = DHTSensor(board.D13)
-
-
-def start_sensor_data_collection():
-    sensor_thread = threading.Thread(target=sensor_data_collection_loop, daemon=True)
-    sensor_thread.start()
-
-@app.on_event("startup")
-async def startup_event():
-    create_tables()
-    start_sensor_data_collection()
-
-@app.post("/sensor_data/")
-def create_sensor_data(sensor_data: SensorData):
-    with Session(engine) as session:
-        session.add(sensor_data)
-        session.commit()
-        session.refresh(sensor_data)
-        return sensor_data
-
-def post_sensor_data(temperature, humidity):
-    data = {
-        "temperature": temperature,
-        "humidity": humidity
-    }
-    try:
-        response = requests.post("http://127.0.0.1:8000/sensor_data/", json=data)
-        return response.json()
-    except requests.exceptions.ConnectionError as e:
-        logger.error(f"Failed to post sensor data: {e}")
-
-def sensor_data_collection_loop():
-    while True:
-        temperature, humidity = dht_sensor.get_temperature_humidity()
-        if temperature is not None and humidity is not None:
-            post_sensor_data(temperature, humidity)
-            # 주의 메시지 발송 조건: 온도가 30도 이상이거나 습도가 20% 이하 또는 60% 이상일 경우
-            if temperature >= 30 or humidity <= 20 or humidity >= 60:
-                send_telegram(f"주의: 온도 {temperature}°C 또는 습도 {humidity}%가 비정상 범위에 진입했습니다.")
-            # 경고 메시지 발송 조건: 온도가 35도 이상일 경우
-            if temperature >= 35:
-                send_telegram(f"경고: 온도 {temperature}°C가 매우 높습니다.")
-        time.sleep(10)
-
 app.include_router(post_router)
+
+
+
+async def startup_event():
+    ini_path = "/home/odroid/workspace/odroid_dashboard/src/config.ini"
+    config = ConfigManager(ini_path)
+    ini_dict = config.get_config_dict()
+    logger = setup_logger(ini_dict)
+    
+    DB_PATH = ini_dict['DB']['DB_PATH']
+    DB_NAME = ini_dict['DB']['DB_NAME']
+
+    DATABASE_URL = f"sqlite:///{DB_PATH}/{DB_NAME}"
+    connect_args = {"check_same_thread": False}
+    engine = create_engine(DATABASE_URL, echo=False, connect_args=connect_args)
+    db_manager = DBManager(engine)
+    
+    SQLModel.metadata.create_all(engine)
+    
+    app.state.logger = logger
+    app.state.db_manager = db_manager
+    app.state.ini_dict = ini_dict
+
+    start_sensor_data_collection(app)
+
+
+app.on_event("startup")(startup_event)
+
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
