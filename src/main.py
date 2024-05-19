@@ -1,15 +1,19 @@
 from fastapi import FastAPI
 import uvicorn
 from sqlmodel import SQLModel, create_engine
+import os
+import time
 
 from utils import ConfigManager, DBManager, setup_logger
 from router import post_router, start_sensor_data_collection
 
 
+os.environ['TZ'] = 'Asia/Seoul'
+time.tzset()
+
 app = FastAPI()
 
 app.include_router(post_router)
-
 
 
 async def startup_event():

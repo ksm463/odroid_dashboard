@@ -4,14 +4,16 @@ from dash.dependencies import Input, Output
 import plotly.graph_objs as go
 from collections import deque
 import sqlite3
-from utils import config_mng, logger
+from utils import ConfigManager, logger
 
 
-ini_dict = config_mng.get_config_dict()
-MAX_LENGTH = int(ini_dict['DASH']['max_length'])  
-DASH_INTERVAL = int(ini_dict['DASH']['dash_interval'])
-DB_PATH = ini_dict['DB']['db_path']
-DB_NAME = ini_dict['DB']['db_name']
+ini_path = "/home/odroid/workspace/odroid_dashboard/src/config.ini"
+config = ConfigManager(ini_path)
+ini_dict = config.get_config_dict()
+MAX_LENGTH = int(ini_dict['DASH']['MAX_LENGTH'])  
+DASH_INTERVAL = int(ini_dict['DASH']['DASH_INTERVAL'])
+DB_PATH = ini_dict['DB']['DB_PATH']
+DB_NAME = ini_dict['DB']['DB_NAME']
 temperature_values = deque(maxlen=MAX_LENGTH)
 humidity_values = deque(maxlen=MAX_LENGTH)
 timestamps = deque(maxlen=MAX_LENGTH)
@@ -35,7 +37,7 @@ def read_last_temperature_humidity():
         c = conn.cursor()
         
         # 마지막 온도와 습도 데이터 가져오기
-        c.execute("SELECT temperature, humidity, timestamp FROM sensordata ORDER BY timestamp DESC LIMIT 1")
+        c.execute("SELECT temperature, humidity, timestamp FROM datastruct ORDER BY timestamp DESC LIMIT 1")
         row = c.fetchone()
         
         if row:
