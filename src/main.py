@@ -5,7 +5,7 @@ import os
 import time
 
 from utils import ConfigManager, DBManager, setup_logger
-from router import post_router, start_sensor_data_collection
+from router import post_router, get_router, start_sensor_data_collection
 
 
 os.environ['TZ'] = 'Asia/Seoul'
@@ -14,6 +14,7 @@ time.tzset()
 app = FastAPI()
 
 app.include_router(post_router)
+app.include_router(get_router)
 
 
 async def startup_event():

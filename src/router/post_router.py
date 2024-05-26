@@ -1,8 +1,6 @@
-from fastapi import FastAPI, APIRouter, status, HTTPException, Depends, Request
-from fastapi.concurrency import run_in_threadpool
+from fastapi import FastAPI, APIRouter, status, HTTPException, Depends
 from typing import List
 from datetime import datetime
-import asyncio
 import time
 import threading
 import board

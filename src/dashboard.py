@@ -3,61 +3,25 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 import plotly.graph_objs as go
 from collections import deque
-import sqlite3
-from utils import ConfigManager, logger
+import requests
+from utils import ConfigManager
 
 
 ini_path = "/home/odroid/workspace/odroid_dashboard/src/config.ini"
 config = ConfigManager(ini_path)
 ini_dict = config.get_config_dict()
+
+API_URL = ini_dict['DASH']['API_URL']
 MAX_LENGTH = int(ini_dict['DASH']['MAX_LENGTH'])  
 DASH_INTERVAL = int(ini_dict['DASH']['DASH_INTERVAL'])
 DB_PATH = ini_dict['DB']['DB_PATH']
 DB_NAME = ini_dict['DB']['DB_NAME']
+
 temperature_values = deque(maxlen=MAX_LENGTH)
 humidity_values = deque(maxlen=MAX_LENGTH)
 timestamps = deque(maxlen=MAX_LENGTH)
 
 app = dash.Dash(__name__)
-
-app.layout = html.Div([
-    dcc.Graph(id='live-update-graph'),
-    dcc.Interval(
-        id='interval-component',
-        interval=DASH_INTERVAL, 
-        n_intervals=0
-    )
-])
-
-
-# 최근 온도 습도 데이터를 DB에서 읽어오는 함수
-def read_last_temperature_humidity():
-    try:
-        conn = sqlite3.connect(f'{DB_PATH}/{DB_NAME}')
-        c = conn.cursor()
-        
-        # 마지막 온도와 습도 데이터 가져오기
-        c.execute("SELECT temperature, humidity, timestamp FROM datastruct ORDER BY timestamp DESC LIMIT 1")
-        row = c.fetchone()
-        
-        if row:
-            temperature, humidity, timestamp = row
-            return temperature, humidity, timestamp
-        else:
-            return None, None, None
-    except Exception as e:
-        print(f"Error reading from database: {e}")
-        return None, None, None
-    finally:
-        conn.close()
-
-# 온도 습도 업데이트 함수
-def update_temperature_humidity():
-    temperature, humidity, timestamp = read_last_temperature_humidity()
-    if temperature is not None and humidity is not None and timestamp is not None:
-        timestamps.append(timestamp)
-        temperature_values.append(temperature)
-        humidity_values.append(humidity)
 
 app.layout = html.Div([
     html.Div([
@@ -68,10 +32,37 @@ app.layout = html.Div([
     ]),
     dcc.Interval(
         id='interval-component',
-        interval=10000,  # milliseconds
+        interval=DASH_INTERVAL,  # milliseconds
         n_intervals=0
     )
 ])
+
+def fetch_sensor_data():
+    response = requests.get(API_URL)
+    if response.status_code == 200:
+        data = response.json()
+        return data
+    else:
+        return []
+
+def update_temperature_humidity():
+    data = fetch_sensor_data()
+    if data:
+        # 데이터를 타임스탬프 기준으로 오름차순 정렬
+        data_sorted = sorted(data, key=lambda x: x['timestamp'])
+
+        # 새로운 타임스탬프, 온도, 습도 데이터 추출
+        new_timestamps = [entry['timestamp'] for entry in data_sorted]
+        new_temperatures = [entry['temperature'] for entry in data_sorted]
+        new_humidities = [entry['humidity'] for entry in data_sorted]
+
+        # 이전 데이터와 중복되지 않도록 추가
+        last_timestamp = timestamps[-1] if timestamps else None
+        for ts, temp, hum in zip(new_timestamps, new_temperatures, new_humidities):
+            if last_timestamp is None or ts > last_timestamp:
+                timestamps.append(ts)
+                temperature_values.append(temp)
+                humidity_values.append(hum)
 
 # 온도 데이터 콜백
 @app.callback(Output('temperature-graph', 'figure'),
@@ -94,7 +85,10 @@ def update_temperature_graph(n):
     # 온도 레이블
     temperature_layout = go.Layout(title="Real-time Temperature Data",
                                    xaxis=dict(title='Time'),
-                                   yaxis=dict(title='Temperature (°C)'))
+                                   yaxis=dict(title='Temperature (°C)'),
+                                   showlegend=True,
+                                   legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+    )
     
     return {'data': temperature_data, 'layout': temperature_layout}
 
@@ -117,7 +111,10 @@ def update_humidity_graph(n):
     # 습도 레이블
     humidity_layout = go.Layout(title="Real-time Humidity Data",
                                 xaxis=dict(title='Time'),
-                                yaxis=dict(title='Humidity (%)'))
+                                yaxis=dict(title='Humidity (%)'),
+                                showlegend=True,
+                                legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+    )
     
     return {'data': humidity_data, 'layout': humidity_layout}
 
