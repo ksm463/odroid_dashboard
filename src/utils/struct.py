@@ -7,3 +7,10 @@ class DataStruct(SQLModel, table=True):
     timestamp: Optional[str]
     temperature: Optional[float]
     humidity: Optional[float]
+
+class SensorState:
+    def __init__(self):
+        self.very_high_temp_alert_sent = False
+        self.high_temp_alert_sent = False
+        self.low_humidity_alert_sent = False
+        self.high_humidity_alert_sent = False

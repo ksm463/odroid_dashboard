@@ -26,3 +26,12 @@ def get_ini_dict(request: Request):
         return ini_dict
     except AttributeError:
         raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail="ini_dict attribute not found in app state")
+
+def get_sensor_state(request: Request):
+    try:
+        sensor_state = request.app.state.sensor_state
+        if sensor_state is None:
+            raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail="Sensor_state not initialized")
+        return sensor_state
+    except AttributeError:
+        raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail="Sensor_state attribute not found in app state")
