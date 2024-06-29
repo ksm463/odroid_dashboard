@@ -27,33 +27,21 @@ def post_sensor_data(datas: List[DataStruct], db_manager=Depends(get_db_manager)
 
             db_manager.add_sensor_data(data_struct)
             
-            if data_struct.temperature >= 35 and not sensor_state.very_high_temp_alert_sent:
-                send_telegram(f"경고: 온도 {data_struct.temperature}°C가 매우 높습니다.")
-                logger.info(f"State change: very high temperature alert sent for {data_struct.temperature}°C.")
-                sensor_state.very_high_temp_alert_sent = True
-            elif data_struct.temperature < 35:
-                sensor_state.very_high_temp_alert_sent = False
-                
-            if data_struct.temperature >= 30 and not sensor_state.high_temp_alert_sent:
-                send_telegram(f"경고: 온도 {data_struct.temperature}°C가 비정상 범위에 진입했습니다.")
-                logger.info(f"State change: high temperature alert sent for {data_struct.temperature}°C.")
-                sensor_state.high_temp_alert_sent = True
-            elif data_struct.temperature < 30:
-                sensor_state.high_temp_alert_sent = False
+            sensor_state = "normal"
+            new_state = "normal"
+            if sensor_data.temperature >= 35:
+                new_state = "very_high_temp"
+            elif 33 <= sensor_data.temperature < 35:
+                new_state = "high_temp"
+            if sensor_data.humidity <= 20:
+                new_state = "low_humidity"
+            elif sensor_data.humidity >= 60:
+                new_state = "high_humidity"
 
-            if data_struct.humidity <= 20 and not sensor_state.low_humidity_alert_sent:
-                send_telegram(f"주의: 습도 {data_struct.humidity}%가 비정상 범위에 진입했습니다.")
-                logger.info(f"State change: low humidity alert sent for {data_struct.humidity}%.")
-                sensor_state.low_humidity_alert_sent = True
-            elif data_struct.humidity > 20:
-                sensor_state.low_humidity_alert_sent = False
-
-            if data_struct.humidity >= 60 and not sensor_state.high_humidity_alert_sent:
-                send_telegram(f"주의: 습도 {data_struct.humidity}%가 비정상 범위에 진입했습니다.")
-                logger.info(f"State change: high humidity alert sent for {data_struct.humidity}%.")
-                sensor_state.high_humidity_alert_sent = True
-            elif data_struct.humidity < 60:
-                sensor_state.high_humidity_alert_sent = False
+            if sensor_state != new_state:
+                sensor_state = new_state
+                logger.info(f"sensor state: {sensor_state}")
+                send_telegram(sensor_state, sensor_data)
 
         return {"status": "success"}
     except Exception as e:
