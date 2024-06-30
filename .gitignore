@@ -1,7 +1,7 @@
 __pycache__/
 *.pyc
 temp_humid.log
-telegram.py
+
 Dockerfile
 build_docker.sh
 run_docker.sh
