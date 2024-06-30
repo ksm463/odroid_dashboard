@@ -14,7 +14,7 @@ def get_sensor_data(db_manager=Depends(get_db_manager), logger=Depends(get_logge
         json_list = [item for item in db_items]
         
         logger.info("GET Router | DB List Data sent successfully")
-        logger.info(f"GET Router | DB List Data sent successfully: {json_list}")
+        # logger.info(f"GET Router | DB List Data sent successfully: {json_list}")
         return json_list
 
     except Exception as e:

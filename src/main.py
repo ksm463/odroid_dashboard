@@ -4,7 +4,7 @@ from sqlmodel import SQLModel, create_engine
 import os
 import time
 
-from utils import ConfigManager, DBManager, SensorState, setup_logger
+from utils import ConfigManager, DBManager, setup_logger
 from router import post_router, get_router, start_sensor_data_collection
 
 
@@ -33,12 +33,10 @@ async def startup_event():
     
     SQLModel.metadata.create_all(engine)
     
-    sensor_state = SensorState()
-    
     app.state.logger = logger
     app.state.db_manager = db_manager
     app.state.ini_dict = ini_dict
-    app.state.sensor_state = sensor_state
+    # app.state.sensor_state = sensor_state
 
     start_sensor_data_collection(app)
 
